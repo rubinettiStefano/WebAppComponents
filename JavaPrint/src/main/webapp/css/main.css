@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+H1, H2, DIV
+{
+	padding-left:10px;	
+}
+
+H1
+{
+	margin-top:0px;
+}
+
+BODY
+{
+	margin:0px;
+	padding:0px;
+}
+
+.news > DIV.content
+{
+	text-align:justify;
+}
+
+P
+{
+	text-align:justify;
+}
